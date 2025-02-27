@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["exxpozing skids"];
+const statusMessages = ["Play.Shotarrow.com"];
 
 
 let currentIndex = 0;
